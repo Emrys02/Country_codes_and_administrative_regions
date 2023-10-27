@@ -1,0 +1,962 @@
+{
+  "Afghanistan": {
+    "currency": "Afghan Afghani",
+    "symbol": "؋"
+  },
+  "Aland Islands": {
+    "currency": "Euro",
+    "symbol": "€"
+  },
+  "Albania": {
+    "currency": "Albanian Lek",
+    "symbol": "Lek"
+  },
+  "Algeria": {
+    "currency": "Algerian Dinar",
+    "symbol": "دج"
+  },
+  "American Samoa": {
+    "currency": "United States Dollar",
+    "symbol": "$"
+  },
+  "Andorra": {
+    "currency": "Euro",
+    "symbol": "€"
+  },
+  "Angola": {
+    "currency": "Angolan Kwanza",
+    "symbol": "Kz"
+  },
+  "Anguilla": {
+    "currency": "Eastern Caribbean Dollar",
+    "symbol": "$"
+  },
+  "Antigua and Barbuda": {
+    "currency": "East Caribbean Dollar",
+    "symbol": "$"
+  },
+  "Argentina": {
+    "currency": "Argentine Peso",
+    "symbol": "$"
+  },
+  "Armenia": {
+    "currency": "Armenian Dram",
+    "symbol": "֏"
+  },
+  "Aruba": {
+    "currency": "Aruban Florin",
+    "symbol": "ƒ"
+  },
+  "Australia": {
+    "currency": "Australian Dollar",
+    "symbol": "$"
+  },
+  "Austria": {
+    "currency": "Euro",
+    "symbol": "€"
+  },
+  "Azerbaijan": {
+    "currency": "Azerbaijani Manat",
+    "symbol": "₼"
+  },
+  "Bahamas": {
+    "currency": "Bahamian Dollar",
+    "symbol": "$"
+  },
+  "Bahrain": {
+    "currency": "Bahraini Dinar",
+    "symbol": "BD"
+  },
+  "Bangladesh": {
+    "currency": "Bangladeshi Taka",
+    "symbol": "৳"
+  },
+  "Barbados": {
+    "currency": "Barbadian Dollar",
+    "symbol": "$"
+  },
+  "Belarus": {
+    "currency": "Belarusian Ruble",
+    "symbol": "Br"
+  },
+  "Belgium": {
+    "currency": "Euro",
+    "symbol": "€"
+  },
+  "Belize": {
+    "currency": "Belize Dollar",
+    "symbol": "BZ$"
+  },
+  "Benin": {
+    "currency": "West African CFA Franc",
+    "symbol": "CFA"
+  },
+  "Bermuda": {
+    "currency": "Bermudian Dollar",
+    "symbol": "$"
+  },
+  "Bhutan": {
+    "currency": "Bhutanese Ngultrum",
+    "symbol": "Nu."
+  },
+  "Bolivia": {
+    "currency": "Bolivian Boliviano",
+    "symbol": "Bs."
+  },
+  "Bosnia and Herzegovina": {
+    "currency": "Bosnia and Herzegovina Convertible Mark",
+    "symbol": "KM"
+  },
+  "Botswana": {
+    "currency": "Botswana Pula",
+    "symbol": "P"
+  },
+  "Brazil": {
+    "currency": "Brazilian Real",
+    "symbol": "R$"
+  },
+  "British Indian Ocean Territory": {
+    "currency": "United States Dollar",
+    "symbol": "$"
+  },
+  "Brunei Darussalam": {
+    "currency": "Brunei Dollar",
+    "symbol": "B$"
+  },
+  "Bulgaria": {
+    "currency": "Bulgarian Lev",
+    "symbol": "лв."
+  },
+  "Burkina Faso": {
+    "currency": "West African CFA Franc",
+    "symbol": "CFA"
+  },
+  "Burundi": {
+    "currency": "Burundian Franc",
+    "symbol": "FBu"
+  },
+  "Cambodia": {
+    "currency": "Cambodian Riel",
+    "symbol": "៛"
+  },
+  "Cameroon": {
+    "currency": "Central African CFA Franc",
+    "symbol": "CFA"
+  },
+  "Canada": {
+    "currency": "Canadian Dollar",
+    "symbol": "$"
+  },
+  "Cape Verde": {
+    "currency": "Cape Verdean Escudo",
+    "symbol": "$"
+  },
+  "Cayman Islands": {
+    "currency": "Cayman Islands Dollar",
+    "symbol": "$"
+  },
+  "Central African Republic": {
+    "currency": "Central African CFA Franc",
+    "symbol": "CFA"
+  },
+  "Chad": {
+    "currency": "Central African CFA Franc",
+    "symbol": "CFA"
+  },
+  "Chile": {
+    "currency": "Chilean Peso",
+    "symbol": "$"
+  },
+  "China": {
+    "currency": "Chinese Yuan",
+    "symbol": "¥"
+  },
+  "Colombia": {
+    "currency": "Colombian Peso",
+    "symbol": "$"
+  },
+  "Comoros": {
+    "currency": "Comorian Franc",
+    "symbol": "CF"
+  },
+  "Congo": {
+    "currency": "Central African CFA Franc",
+    "symbol": "CFA"
+  },
+  "Cook Islands": {
+    "currency": "New Zealand Dollar",
+    "symbol": "$"
+  },
+  "Costa Rica": {
+    "currency": "Costa Rican Colón",
+    "symbol": "₡"
+  },
+  "Cote d'Ivoire": {
+    "currency": "West African CFA Franc",
+    "symbol": "CFA"
+  },
+  "Croatia": {
+    "currency": "Croatian Kuna",
+    "symbol": "kn"
+  },
+  "Cuba": {
+    "currency": "Cuban Peso",
+    "symbol": "$"
+  },
+  "Cyprus": {
+    "currency": "Euro",
+    "symbol": "€"
+  },
+  "Czech Republic": {
+    "currency": "Czech Koruna",
+    "symbol": "Kč"
+  },
+  "Democratic Republic of the Congo": {
+    "currency": "Congolese Franc",
+    "symbol": "FC"
+  },
+  "Denmark": {
+    "currency": "Danish Krone",
+    "symbol": "kr"
+  },
+  "Djibouti": {
+    "currency": "Djiboutian Franc",
+    "symbol": "Fdj"
+  },
+  "Dominica": {
+    "currency": "Eastern Caribbean Dollar",
+    "symbol": "$"
+  },
+  "Dominican Republic": {
+    "currency": "Dominican Peso",
+    "symbol": "RD$"
+  },
+  "Ecuador": {
+    "currency": "United States Dollar",
+    "symbol": "$"
+  },
+  "Egypt": {
+    "currency": "Egyptian Pound",
+    "symbol": "E£"
+  },
+  "El Salvador": {
+    "currency": "United States Dollar",
+    "symbol": "$"
+  },
+  "Equatorial Guinea": {
+    "currency": "Central African CFA Franc",
+    "symbol": "CFA"
+  },
+  "Eritrea": {
+    "currency": "Eritrean Nakfa",
+    "symbol": "Nfk"
+  },
+  "Estonia": {
+    "currency": "Euro",
+    "symbol": "€"
+  },
+  "Ethiopia": {
+    "currency": "Ethiopian Birr",
+    "symbol": "Br"
+  },
+  "Falkland Islands (Malvinas)": {
+    "currency": "Falkland Islands Pound",
+    "symbol": "FK"
+  },
+  "Faroe Islands": {
+    "currency": "Faroese Króna",
+    "symbol": "kr"
+  },
+  "Fiji": {
+    "currency": "Fijian Dollar",
+    "symbol": "$"
+  },
+  "Finland": {
+    "currency": "Euro",
+    "symbol": "€"
+  },
+  "France": {
+    "currency": "Euro",
+    "symbol": "€"
+  },
+  "French Guiana": {
+    "currency": "Euro",
+    "symbol": "€"
+  },
+  "French Polynesia": {
+    "currency": "CFP Franc",
+    "symbol": "XPF"
+  },
+  "Gabon": {
+    "currency": "Central African CFA Franc",
+    "symbol": "CFA"
+  },
+  "Gambia": {
+    "currency": "Gambian Dalasi",
+    "symbol": "D"
+  },
+  "Georgia": {
+    "currency": "Georgian Lari",
+    "symbol": "₾"
+  },
+  "Germany": {
+    "currency": "Euro",
+    "symbol": "€"
+  },
+  "Ghana": {
+    "currency": "Ghanaian Cedi",
+    "symbol": "₵"
+  },
+  "Gibraltar": {
+    "currency": "Gibraltar Pound",
+    "symbol": "£"
+  },
+  "Greece": {
+    "currency": "Euro",
+    "symbol": "€"
+  },
+  "Greenland": {
+    "currency": "Danish Krone",
+    "symbol": "kr"
+  },
+  "Grenada": {
+    "currency": "Eastern Caribbean Dollar",
+    "symbol": "$"
+  },
+  "Guadeloupe": {
+    "currency": "Euro",
+    "symbol": "€"
+  },
+  "Guam": {
+    "currency": "United States Dollar",
+    "symbol": "$"
+  },
+  "Guatemala": {
+    "currency": "Guatemalan Quetzal",
+    "symbol": "Q"
+  },
+  "Guernsey": {
+    "currency": "Guernsey Pound",
+    "symbol": "£"
+  },
+  "Guinea": {
+    "currency": "Guinean Franc",
+    "symbol": "FG"
+  },
+  "Guinea-Bissau": {
+    "currency": "West African CFA Franc",
+    "symbol": "CFA"
+  },
+  "Guyana": {
+    "currency": "Guyanese Dollar",
+    "symbol": "$"
+  },
+  "Haiti": {
+    "currency": "Haitian Gourde",
+    "symbol": "G"
+  },
+  "Holy See (Vatican City State)": {
+    "currency": "Euro",
+    "symbol": "€"
+  },
+  "Honduras": {
+    "currency": "Honduran Lempira",
+    "symbol": "L"
+  },
+  "Hong Kong": {
+    "currency": "Hong Kong Dollar",
+    "symbol": "HK$"
+  },
+  "Hungary": {
+    "currency": "Hungarian Forint",
+    "symbol": "Ft"
+  },
+  "Iceland": {
+    "currency": "Icelandic Króna",
+    "symbol": "kr"
+  },
+  "India": {
+    "currency": "Indian Rupee",
+    "symbol": "₹"
+  },
+  "Indonesia": {
+    "currency": "Indonesian Rupiah",
+    "symbol": "Rp"
+  },
+  "Iran": {
+    "currency": "Iranian Rial",
+    "symbol": "﷼"
+  },
+  "Iraq": {
+    "currency": "Iraqi Dinar",
+    "symbol": "ع.د"
+  },
+  "Ireland": {
+    "currency": "Euro",
+    "symbol": "€"
+  },
+  "Isle of Man": {
+    "currency": "British Pound",
+    "symbol": "£"
+  },
+  "Israel": {
+    "currency": "Israeli New Shekel",
+    "symbol": "₪"
+  },
+  "Italy": {
+    "currency": "Euro",
+    "symbol": "€"
+  },
+  "Jamaica": {
+    "currency": "Jamaican Dollar",
+    "symbol": "J$"
+  },
+  "Japan": {
+    "currency": "Japanese Yen",
+    "symbol": "¥"
+  },
+  "Jersey": {
+    "currency": "British Pound",
+    "symbol": "£"
+  },
+  "Jordan": {
+    "currency": "Jordanian Dinar",
+    "symbol": "JD"
+  },
+  "Kazakhstan": {
+    "currency": "Kazakhstani Tenge",
+    "symbol": "₸"
+  },
+  "Kenya": {
+    "currency": "Kenyan Shilling",
+    "symbol": "KSh"
+  },
+  "Kiribati": {
+    "currency": "Australian Dollar",
+    "symbol": "$"
+  },
+  "Kosovo": {
+    "currency": "Euro",
+    "symbol": "€"
+  },
+  "Kuwait": {
+    "currency": "Kuwaiti Dinar",
+    "symbol": "K.D."
+  },
+  "Kyrgyzstan": {
+    "currency": "Kyrgyzstani Som",
+    "symbol": "сом"
+  },
+  "Laos": {
+    "currency": "Lao Kip",
+    "symbol": "₭"
+  },
+  "Latvia": {
+    "currency": "Euro",
+    "symbol": "€"
+  },
+  "Lebanon": {
+    "currency": "Lebanese Pound",
+    "symbol": "ل.ل"
+  },
+  "Lesotho": {
+    "currency": "Lesotho Loti",
+    "symbol": "L"
+  },
+  "Liberia": {
+    "currency": "Liberian Dollar",
+    "symbol": "$"
+  },
+  "Libya": {
+    "currency": "Libyan Dinar",
+    "symbol": "ل.د"
+  },
+  "Liechtenstein": {
+    "currency": "Swiss Franc",
+    "symbol": "CHF"
+  },
+  "Lithuania": {
+    "currency": "Euro",
+    "symbol": "€"
+  },
+  "Luxembourg": {
+    "currency": "Euro",
+    "symbol": "€"
+  },
+  "Macao": {
+    "currency": "Macanese Pataca",
+    "symbol": "MOP$"
+  },
+  "Madagascar": {
+    "currency": "Malagasy Ariary",
+    "symbol": "Ar"
+  },
+  "Malawi": {
+    "currency": "Malawian Kwacha",
+    "symbol": "MK"
+  },
+  "Malaysia": {
+    "currency": "Malaysian Ringgit",
+    "symbol": "RM"
+  },
+  "Maldives": {
+    "currency": "Maldivian Rufiyaa",
+    "symbol": "Rf"
+  },
+  "Mali": {
+    "currency": "West African CFA Franc",
+    "symbol": "CFA"
+  },
+  "Malta": {
+    "currency": "Euro",
+    "symbol": "€"
+  },
+  "Marshall Islands": {
+    "currency": "United States Dollar",
+    "symbol": "$"
+  },
+  "Martinique": {
+    "currency": "Euro",
+    "symbol": "€"
+  },
+  "Mauritania": {
+    "currency": "Mauritanian Ouguiya",
+    "symbol": "UM"
+  },
+  "Mauritius": {
+    "currency": "Mauritian Rupee",
+    "symbol": "₨"
+  },
+  "Mayotte": {
+    "currency": "Euro",
+    "symbol": "€"
+  },
+  "Mexico": {
+    "currency": "Mexican Peso",
+    "symbol": "$"
+  },
+  "Micronesia": {
+    "currency": "United States Dollar",
+    "symbol": "$"
+  },
+  "Moldova": {
+    "currency": "Moldovan Leu",
+    "symbol": "L"
+  },
+  "Monaco": {
+    "currency": "Euro",
+    "symbol": "€"
+  },
+  "Mongolia": {
+    "currency": "Mongolian Tögrög",
+    "symbol": "₮"
+  },
+  "Montenegro": {
+    "currency": "Euro",
+    "symbol": "€"
+  },
+  "Montserrat": {
+    "currency": "Eastern Caribbean Dollar",
+    "symbol": "$"
+  },
+  "Morocco": {
+    "currency": "Moroccan Dirham",
+    "symbol": "د.م."
+  },
+  "Mozambique": {
+    "currency": "Mozambican Metical",
+    "symbol": "MT"
+  },
+  "Myanmar": {
+    "currency": "Myanmar Kyat",
+    "symbol": "K"
+  },
+  "Namibia": {
+    "currency": "Namibian Dollar",
+    "symbol": "$"
+  },
+  "Nauru": {
+    "currency": "Australian Dollar",
+    "symbol": "$"
+  },
+  "Nepal": {
+    "currency": "Nepalese Rupee",
+    "symbol": "रू"
+  },
+  "Netherlands": {
+    "currency": "Euro",
+    "symbol": "€"
+  },
+  "Netherlands Antilles": {
+    "currency": "Netherlands Antillean Guilder",
+    "symbol": "ƒ"
+  },
+  "New Caledonia": {
+    "currency": "CFP Franc",
+    "symbol": "XPF"
+  },
+  "New Zealand": {
+    "currency": "New Zealand Dollar",
+    "symbol": "$"
+  },
+  "Nicaragua": {
+    "currency": "Nicaraguan Córdoba",
+    "symbol": "C$"
+  },
+  "Niger": {
+    "currency": "West African CFA Franc",
+    "symbol": "CFA"
+  },
+  "Nigeria": {
+    "currency": "Nigerian Naira",
+    "symbol": "₦"
+  },
+  "Niue": {
+    "currency": "New Zealand Dollar",
+    "symbol": "$"
+  },
+  "Norfolk Island": {
+    "currency": "Australian Dollar",
+    "symbol": "$"
+  },
+  "Northern Mariana Islands": {
+    "currency": "United States Dollar",
+    "symbol": "$"
+  },
+  "North Macedonia": {
+    "currency": "Macedonian Denar",
+    "symbol": "ден"
+  },
+  "North Korea": {
+    "currency": "North Korean Won",
+    "symbol": "₩"
+  },
+  "Norway": {
+    "currency": "Norwegian Krone",
+    "symbol": "kr"
+  },
+  "Oman": {
+    "currency": "Omani Rial",
+    "symbol": "ر.ع."
+  },
+  "Pakistan": {
+    "currency": "Pakistani Rupee",
+    "symbol": "₨"
+  },
+  "Palau": {
+    "currency": "United States Dollar",
+    "symbol": "$"
+  },
+  "Palestine": {
+    "currency": "Israeli New Shekel",
+    "symbol": "₪"
+  },
+  "Panama": {
+    "currency": "Panamanian Balboa",
+    "symbol": "B/."
+  },
+  "Papua New Guinea": {
+    "currency": "Papua New Guinean Kina",
+    "symbol": "K"
+  },
+  "Paraguay": {
+    "currency": "Paraguayan Guarani",
+    "symbol": "₲"
+  },
+  "Peru": {
+    "currency": "Peruvian Nuevo Sol",
+    "symbol": "S/."
+  },
+  "Philippines": {
+    "currency": "Philippine Peso",
+    "symbol": "₱"
+  },
+  "Pitcairn": {
+    "currency": "New Zealand Dollar",
+    "symbol": "$"
+  },
+  "Poland": {
+    "currency": "Polish Złoty",
+    "symbol": "zł"
+  },
+  "Portugal": {
+    "currency": "Euro",
+    "symbol": "€"
+  },
+  "Puerto Rico": {
+    "currency": "United States Dollar",
+    "symbol": "$"
+  },
+  "Qatar": {
+    "currency": "Qatari Riyal",
+    "symbol": "ر.ق."
+  },
+  "Romania": {
+    "currency": "Romanian Leu",
+    "symbol": "lei"
+  },
+  "Russia": {
+    "currency": "Russian Ruble",
+    "symbol": "₽"
+  },
+  "Rwanda": {
+    "currency": "Rwandan Franc",
+    "symbol": "FRw"
+  },
+  "Reunion": {
+    "currency": "Euro",
+    "symbol": "€"
+  },
+  "Saint Barthelemy": {
+    "currency": "Euro",
+    "symbol": "€"
+  },
+  "Saint Helena, Ascension and Tristan Da Cunha": {
+    "currency": "Saint Helena Pound",
+    "symbol": "£"
+  },
+  "Saint Kitts and Nevis": {
+    "currency": "Eastern Caribbean Dollar",
+    "symbol": "$"
+  },
+  "Saint Lucia": {
+    "currency": "Eastern Caribbean Dollar",
+    "symbol": "$"
+  },
+  "Saint Martin": {
+    "currency": "Euro",
+    "symbol": "€"
+  },
+  "Saint Pierre and Miquelon": {
+    "currency": "Euro",
+    "symbol": "€"
+  },
+  "Saint Vincent and the Grenadines": {
+    "currency": "Eastern Caribbean Dollar",
+    "symbol": "$"
+  },
+  "Samoa": {
+    "currency": "Samoan Tālā",
+    "symbol": "T"
+  },
+  "San Marino": {
+    "currency": "Euro",
+    "symbol": "€"
+  },
+  "Sao Tome and Principe": {
+    "currency": "São Tomé and Príncipe Dobra",
+    "symbol": "Db"
+  },
+  "Saudi Arabia": {
+    "currency": "Saudi Riyal",
+    "symbol": "ر.س"
+  },
+  "Senegal": {
+    "currency": "West African CFA Franc",
+    "symbol": "CFA"
+  },
+  "Serbia": {
+    "currency": "Serbian Dinar",
+    "symbol": "дин."
+  },
+  "Seychelles": {
+    "currency": "Seychellois Rupee",
+    "symbol": "₨"
+  },
+  "Sierra Leone": {
+    "currency": "Sierra Leonean Leone",
+    "symbol": "Le"
+  },
+  "Singapore": {
+    "currency": "Singapore Dollar",
+    "symbol": "$"
+  },
+  "Slovakia": {
+    "currency": "Euro",
+    "symbol": "€"
+  },
+  "Slovenia": {
+    "currency": "Euro",
+    "symbol": "€"
+  },
+  "Solomon Islands": {
+    "currency": "Solomon Islands Dollar",
+    "symbol": "SI$"
+  },
+  "Somalia": {
+    "currency": "Somali Shilling",
+    "symbol": "S"
+  },
+  "South Africa": {
+    "currency": "South African Rand",
+    "symbol": "R"
+  },
+  "South Georgia and the South Sandwich Islands": {
+    "currency": "British Pound",
+    "symbol": "£"
+  },
+  "South Korea": {
+    "currency": "South Korean Won",
+    "symbol": "₩"
+  },
+  "South Sudan": {
+    "currency": "South Sudanese Pound",
+    "symbol": "£"
+  },
+  "Spain": {
+    "currency": "Euro",
+    "symbol": "€"
+  },
+  "Sri Lanka": {
+    "currency": "Sri Lankan Rupee",
+    "symbol": "₨"
+  },
+  "Sudan": {
+    "currency": "Sudanese Pound",
+    "symbol": "£"
+  },
+  "Suriname": {
+    "currency": "Surinamese Dollar",
+    "symbol": "$"
+  },
+  "Svalbard and Jan Mayen": {
+    "currency": "Norwegian Krone",
+    "symbol": "kr"
+  },
+  "Swaziland": {
+    "currency": "Swazi Lilangeni",
+    "symbol": "L"
+  },
+  "Sweden": {
+    "currency": "Swedish Krona",
+    "symbol": "kr"
+  },
+  "Switzerland": {
+    "currency": "Swiss Franc",
+    "symbol": "CHF"
+  },
+  "Syria": {
+    "currency": "Syrian Pound",
+    "symbol": "£"
+  },
+  "Taiwan": {
+    "currency": "New Taiwan Dollar",
+    "symbol": "NT$"
+  },
+  "Tajikistan": {
+    "currency": "Tajikistani Somoni",
+    "symbol": "SM"
+  },
+  "Tanzania": {
+    "currency": "Tanzanian Shilling",
+    "symbol": "TSh"
+  },
+  "Thailand": {
+    "currency": "Thai Baht",
+    "symbol": "฿"
+  },
+  "Timor-Leste": {
+    "currency": "United States Dollar",
+    "symbol": "$"
+  },
+  "Togo": {
+    "currency": "West African CFA Franc",
+    "symbol": "CFA"
+  },
+  "Tokelau": {
+    "currency": "New Zealand Dollar",
+    "symbol": "NZ$"
+  },
+  "Tonga": {
+    "currency": "Tongan Pa'anga",
+    "symbol": "T$"
+  },
+  "Trinidad and Tobago": {
+    "currency": "Trinidad and Tobago Dollar",
+    "symbol": "TT$"
+  },
+  "Tunisia": {
+    "currency": "Tunisian Dinar",
+    "symbol": "د.ت"
+  },
+  "Turkey": {
+    "currency": "Turkish Lira",
+    "symbol": "₺"
+  },
+  "Turkmenistan": {
+    "currency": "Turkmenistan Manat",
+    "symbol": "TMT"
+  },
+  "Turks and Caicos Islands": {
+    "currency": "United States Dollar",
+    "symbol": "$"
+  },
+  "Tuvalu": {
+    "currency": "Tuvaluan Dollar",
+    "symbol": "$"
+  },
+  "Uganda": {
+    "currency": "Ugandan Shilling",
+    "symbol": "USh"
+  },
+  "Ukraine": {
+    "currency": "Ukrainian Hryvnia",
+    "symbol": "₴"
+  },
+  "United Arab Emirates": {
+    "currency": "United Arab Emirates Dirham",
+    "symbol": "د.إ"
+  },
+  "United Kingdom": {
+    "currency": "British Pound Sterling",
+    "symbol": "£"
+  },
+  "United States": {
+    "currency": "United States Dollar",
+    "symbol": "$"
+  },
+  "Uruguay": {
+    "currency": "Uruguayan Peso",
+    "symbol": "$U"
+  },
+  "Uzbekistan": {
+    "currency": "Uzbekistan Som",
+    "symbol": "so'm"
+  },
+  "Vanuatu": {
+    "currency": "Vanuatu Vatu",
+    "symbol": "Vt"
+  },
+  "Venezuela, Bolivarian Republic of Venezuela": {
+    "currency": "Venezuelan Bolívar",
+    "symbol": "Bs"
+  },
+  "Vietnam": {
+    "currency": "Vietnamese Dong",
+    "symbol": "₫"
+  },
+  "Virgin Islands, British": {
+    "currency": "United States Dollar",
+    "symbol": "$"
+  },
+  "Virgin Islands, U.S.": {
+    "currency": "United States Dollar",
+    "symbol": "$"
+  },
+  "Wallis and Futuna": {
+    "currency": "CFP Franc",
+    "symbol": "₣"
+  },
+  "Yemen": {
+    "currency": "Yemeni Rial",
+    "symbol": "﷼"
+  },
+  "Zambia": {
+    "currency": "Zambian Kwacha",
+    "symbol": "ZK"
+  },
+  "Zimbabwe": {
+    "currency": "Zimbabwean Dollar",
+    "symbol": "Z$"
+  }
+}
